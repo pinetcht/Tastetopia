@@ -49,11 +49,6 @@ npm start
    - View your created and saved recipes.
 5. On your profile, view notifications about newly posted recipes from other users. Click to view the recipe.
 
-### Additional Media
-<img width="1293" alt="Screenshot 2024-06-25 at 6 52 00 PM" src="https://github.com/tiffanyfu7/launch-swe-week3-team-2/assets/71473099/47c77feb-90a2-4f5d-a9ad-0de123a43256">
-
-![1](https://github.com/tiffanyfu7/launch-swe-week3-team-2/assets/71473099/081ded39-0f88-408a-b980-0b7a07c07ae2)
-
 
 ### Credits
 Authors: Tiffany Fu, Pine Netcharussaeng, Patrick Yuson, Omar Hashi, Vivi Thai. This project was completed as a part of Forge Launch SWE Training. Special Thanks to TA's Simon Anderson, and Byron Richards, and Alum Instructor Mitch Gillin.
